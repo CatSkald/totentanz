@@ -1,1 +1,6 @@
+title: Dance of Death
+description: Danse macabre, Totentanz, Пляска Смерти
+baseurl: "totentanz"
+url: "https://catskald.github.io"
+github_username:  CatSkald
 theme: jekyll-theme-midnight
