@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'OpenSansLight';
+    src: url('./fonts/Alice.ttf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSansLightItalic';
+    src: url('./fonts/Alice.ttf');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('./fonts/Alice.ttf');
+    font-weight: normal;
+    font-style: normal;
+    -webkit-font-smoothing:antialiased;
+}
+
+@font-face {
+    font-family: 'OpenSansItalic';
+    src: url('./fonts/Alice.ttf');
+    font-weight: normal;
+    font-style: italic;
+    -webkit-font-smoothing:antialiased;
+}
+
+@font-face {
+    font-family: 'OpenSansSemibold';
+    src: url('./fonts/Alice.ttf');
+    font-weight: 600;
+    font-style: normal;
+    -webkit-font-smoothing:antialiased;
+}
+
+@font-face {
+    font-family: 'OpenSansSemiboldItalic';
+    src: url('./fonts/Alice.ttf');
+    font-weight: 600;
+    font-style: italic;
+    -webkit-font-smoothing:antialiased;
+}
+
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('./fonts/Alice.ttf');
+    font-weight: bold;
+    font-style: normal;
+    -webkit-font-smoothing:antialiased;
+}
+
+@font-face {
+    font-family: 'OpenSansBoldItalic';
+    src: url('./fonts/Alice.ttf');
+    font-weight: bold;
+    font-style: italic;
+    -webkit-font-smoothing:antialiased;
+}
