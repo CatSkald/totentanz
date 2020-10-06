@@ -1,0 +1,20 @@
+---
+---
+
+@import "";
+body {
+  background: #141414;
+  color: ghostwhite;
+  font-family: 'Alice', serif;
+}
+#header {
+  background: #26292b;
+  diplay: none;
+}
+a {
+  color: maroon;
+  font-weight: bolder;
+}
+a:hover {
+  color: red;
+}
