@@ -1,15 +1,11 @@
 ---
 ---
-
-@import "";
+@import "{{ site.theme }}";
+#header { diplay: none; }
 body {
   background: #141414;
   color: ghostwhite;
   font-family: 'Alice', serif;
-}
-#header {
-  background: #26292b;
-  diplay: none;
 }
 a {
   color: maroon;
