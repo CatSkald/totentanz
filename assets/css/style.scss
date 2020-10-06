@@ -1,11 +1,10 @@
 ---
 ---
 @import "{{ site.theme }}";
-#header { diplay: none; }
+#header { display: none; }
 body {
   background: #141414;
-  color: ghostwhite;
-  font-family: 'Alice', serif;
+  color: #d4d4d4;
 }
 a {
   color: maroon;
@@ -13,4 +12,15 @@ a {
 }
 a:hover {
   color: red;
+}
+section #title p {
+  color: #d4d4d4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #d4d4d4;
 }
