@@ -1,4 +1,3 @@
----
 ### Todtentanz der stadt Basel
 #### (Matthäus Merian, 1621)
 · · ·
