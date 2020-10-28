@@ -13,6 +13,7 @@
 ### Пляска смерти в Базеле
 #### (CatSkald, 2020, перевод с французской версии Chovin)
 ---
+![Death and Pope](/images/pope.png?raw=true)
 
 **Todt zum Bapst.**
 
@@ -27,3 +28,8 @@ Heilig war ich auff Erd genandt,\
 Ohn Gott der höchst führt ich mein Stand:\
 Der Ablaß thät mir gar wol lohnen,\
 Nun wil der Todt mein nicht verschonen.
+---
+![Death and Pope](/images/emperor.png?raw=true)
+---
+![Death and Empress](/images/empress.png?raw=true)
+---
