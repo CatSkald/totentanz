@@ -28,15 +28,15 @@
 
 ---
 
-- [Pope 💀 Papst 💀 Pape 💀 Папа](#pope)
-- [Emperor 💀 Kaiser 💀 Empereur 💀 Імператор 💀 Император](#emperor)
-- [Empress 💀 Kaiserin 💀 Impératrice 💀 Імператриця 💀 Императрица](#empress)
-- [King 💀 König 💀 Roi 💀 Король](#king)
-- [Queen 💀 Königin 💀 Reine 💀 Королева](#queen)
-- [Cardinal 💀 Kardinal 💀 Кардинал](#cardinal)
-- [Bishop 💀 Évêque 💀 Bischof](#bishop)
-- [Duke](#duke)
-- [Duchess](#duchess)
+- [Pope ⨳ Papst ⨳ Pape ⨳ Папа](#pope)
+- [Emperor ⨳ Kaiser ⨳ Empereur ⨳ Імператор ⨳ Император](#emperor)
+- [Empress ⨳ Kaiserin ⨳ Impératrice ⨳ Імператриця ⨳ Императрица](#empress)
+- [King ⨳ König ⨳ Roi ⨳ Король](#king)
+- [Queen ⨳ Königin ⨳ Reine ⨳ Королева](#queen)
+- [Cardinal ⨳ Kardinal ⨳ Кардинал](#cardinal)
+- [Bishop ⨳ Évêque ⨳ Bischof ⨳ Єпископ ⨳ Епископ](#bishop)
+- [Duke ⨳ Herzog ⨳ Duc ⨳ Герцог](#duke)
+- [Duchess ⨳ Herzogin ⨳ Duchesse ⨳ Герцогиня](#duchess)
 - [Count](#count)
 - [Abbot](#abbot)
 - [Knight](#knight)
@@ -528,3 +528,7 @@ All joy and gladness sink at once.
 ## Painter
 
 ![Painter]({{ site.url }}/totentanz/assets/images/painter.png)
+
+---
+
+[⇪⇪⇪💀⇪⇪⇪](#title)

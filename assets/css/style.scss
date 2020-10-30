@@ -1,7 +1,10 @@
 ---
 ---
+
 @import "{{ site.theme }}";
-#header { display: none; }
+#header {
+  display: none;
+}
 body {
   background: #141414;
   color: #d4d4d4;
@@ -12,6 +15,12 @@ a {
 }
 a:hover {
   color: red;
+}
+ul {
+  list-style-image: none;
+}
+li:before {
+  content: "💀";
 }
 section #title p {
   color: #d4d4d4;
