@@ -1,30 +1,30 @@
 # The Dance of Death at Basle
 
-(C. F. Beck, 1852)
+C. F. Beck, 1852
 
 · · ·
 
 # Todtentanz der stadt Basel
 
-(Matthäus Merian, 1621)
+Matthäus Merian, 1621
 
 · · ·
 
 # La danse des mortes
 
-(Jacques-Antony Chovin, 1825)
+Jacques-Antony Chovin, 1825
 
 · · ·
 
 # Танок смерті в Базелі
 
-(CatSkald, 2020, переклад з німецької версії Merian)
+CatSkald, 2020, переклад з німецької версії Merian
 
 · · ·
 
 # Пляска смерти в Базеле
 
-(CatSkald, 2020, перевод с французской версии Chovin)
+CatSkald, 2020, перевод с французской версии Chovin
 
 ---
 
