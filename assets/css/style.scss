@@ -38,6 +38,7 @@ th {
 }
 th.separator {
   text-align: right;
+  padding-top: 1.2em;
 
   &:after {
     content: "· · ·";
