@@ -85,8 +85,8 @@ Das zweyfach Creutz vnd dreyfach Kron.
 Heilig war ich auff Erd genandt,<br>
 Ohn Gott der höchst führt ich mein Stand:<br>
 Der Ablaß thät mir gar wol lohnen,<br>
-Nun wil der Todt mein nicht verschonen.</td>
-</tr></tbody></table>
+Nun wil der Todt mein nicht verschonen.
+</td></tr></tbody></table>
 
 · · ·
 
@@ -103,7 +103,7 @@ Pontife indépendant et fier de ma puissance,<br>
 Règnant au nom de Dieu, je gouvernois sans lui;<br>
 Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -120,7 +120,7 @@ On earth my name was Holiness,<br>
 Next God mine was the highest place;<br>
 Indulgence brought me wealth in store,<br>
 But now death spares myself no more.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -137,7 +137,7 @@ But now death spares myself no more.
 Найголовнішим на Землі опісля Бога:<br>
 На індульге́нціях казна розбагатіла,<br>
 Та Смерть мене тепер не пожаліла.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -154,7 +154,7 @@ But now death spares myself no more.
 Во имя Бога царствуя, я правил без Него.<br>
 Хоть индульге́нции сейчас мои в цене...<br>
 Ах, вот бы Смерть дала́ одну и мне!
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 ---
 
@@ -175,7 +175,7 @@ Ich kundte das Reich gar wol mehren<br>
 Mit Streitten, Fechten, Vnrecht wehren:<br>
 Nun hat der Todt vberwunden mich,<br>
 Daß ich bin keinem Keyser gleich.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -192,7 +192,7 @@ Je pivois, en héros, agrandir mon empire,<br>
 Protèger et venger l’humble à qui l’on fait tort;<br>
 Mais au comble arrivé, tout mon pouvoir expire;<br>
 Suis-je encore Empereur? je ne suis plus qu’un mort.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -209,7 +209,7 @@ My empire's bound I could extend,<br>
 By force of arms the weak defend;<br>
 But death o'ercomes me in a hour,<br>
 And leaves no trace of all my power.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -226,7 +226,7 @@ And leaves no trace of all my power.
 Несправедливість попередив я війною.<br>
 Та перемогу Смерть здобула наді мною,<br>
 Так легко імператорство забравши.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -243,7 +243,7 @@ And leaves no trace of all my power.
 Смиренных защищал, обиженных отмщал.<br>
 Но расплата пришла, и сила ушла.<br>
 Император? Всего лишь мертвец.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 ---
 
@@ -264,7 +264,7 @@ Viel Wollüst hat mein stoltzer Leib,<br>
 Ich lebt alß eines Keysers Weib:<br>
 Nun muß ich an diesen Tantz kommen,<br>
 Mir ist all Muth vnd Frewd genommen.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -281,7 +281,7 @@ J’ai passé tous mes jours au sein de la mollesse,<br>
 Femme d’un Empereur j’ai vécu pour jouir;<br>
 Puis la mort à son bal m’invite, elle me presse…<br>
 Je sens, à son aspect tout mon coeur défaillir.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -298,7 +298,7 @@ I've led a most luxurious life,<br>
 Because I was an Emperor's wife;<br>
 But now I'm forced to such a dance<br>
 All joy and gladness sink at once.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -315,7 +315,7 @@ All joy and gladness sink at once.
 Самому імператору дружиною була.<br>
 Тепер до цього танцю мушу вийти,<br>
 Що всю сміливість й радість відбира́.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 · · ·
 
@@ -332,7 +332,7 @@ All joy and gladness sink at once.
 Императора жена, жила, чтоб наслаждаться.<br>
 Вдруг Смерть меня на бал торопит приглашеньем...<br>
 И сердце замирает от её появленья.
-</tr></tbody></table>
+</td></tr></tbody></table>
 
 ---
 
