@@ -19,11 +19,21 @@ a:hover {
 ul {
   list-style-image: none;
   list-style: none;
-  padding: 0px;
+  padding: 0;
 }
 li:before {
   content: "💀";
   margin: 0 1em;
+}
+td,
+th {
+  padding: 0;
+  border: none;
+  color: inherit;
+}
+th {
+  font-weight: bold;
+  padding-bottom: 1em;
 }
 section #title p {
   color: #d4d4d4;

@@ -73,82 +73,72 @@ CatSkald, 2020, перевод с французской версии Chovin
 
 ![Pope]({{ site.url }}/totentanz/assets/images/pope.png)
 
-**Todt zum Bapst.**
-
-Komm heiliger Vatter werther Mann,\
-Ein Vortantz müßt jhr mit mir han:\
-Der Ablaß euch nicht hilfft darvon,\
-Das zweyfach Creutz vnd dreyfach Kron.
-
-**Antwort.**
-
-Heilig war ich auff Erd genandt,\
-Ohn Gott der höchst führt ich mein Stand:\
-Der Ablaß thät mir gar wol lohnen,\
-Nun wil der Todt mein nicht verschonen.
+| Todt zum Bapst.                                                                                                                                           | Antwort.                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Komm heiliger Vatter werther Mann,<br>Ein Vortantz müßt jhr mit mir han:<br>Der Ablaß euch nicht hilfft darvon,<br>Das zweyfach Creutz vnd dreyfach Kron. | Heilig war ich auff Erd genandt,<br>Ohn Gott der höchst führt ich mein Stand:<br>Der Ablaß thät mir gar wol lohnen,<br>Nun wil der Todt mein nicht verschonen. |
 
 · · ·
 
 **La Mort au Pape:**
 
-Saint-Pere, c’est à vous à commencer la danse;\
-Je veux que le premier on vous voie avancer;\
-Ni tiare, ni croix, ni le droit d’indulgence\
+Saint-Pere, c’est à vous à commencer la danse;<br>
+Je veux que le premier on vous voie avancer;<br>
+Ni tiare, ni croix, ni le droit d’indulgence<br>
 De ce pas décisif ne peuvent dispenser.
 
 **Réponse du Pape:**
 
-Pontife indépendant et fier de ma puissance,\
-Règnant au nom de Dieu, je gouvernois sans lui;\
-Je vendois à haut prix des lettres de dispense…\
+Pontife indépendant et fier de ma puissance,<br>
+Règnant au nom de Dieu, je gouvernois sans lui;<br>
+Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
 
 · · ·
 
 **Death to the Pope.**
 
-Come, holy father, you shall be\
-The first to dance along with me;\
-Indulgence helps you not, lay down\
+Come, holy father, you shall be<br>
+The first to dance along with me;<br>
+Indulgence helps you not, lay down<br>
 Your double cross and triple crown.
 
 **The Pope's reply.**
 
-On earth my name was Holiness,\
-Next God mine was the highest place;\
-Indulgence brought me wealth in store,\
+On earth my name was Holiness,<br>
+Next God mine was the highest place;<br>
+Indulgence brought me wealth in store,<br>
 But now death spares myself no more.
 
 · · ·
 
 **Смерть до папи**
 
-Святотче, першим попрошу́\
-До танцю скласти мені па́ру:\
-Ні індульге́нція, ані трійна́ тіара,\
+Святотче, першим попрошу́<br>
+До танцю скласти мені па́ру:<br>
+Ні індульге́нція, ані трійна́ тіара,<br>
 Ні хрест подвійний вас не вбережуть.
 
 **Папа**
 
-Мене у світі знали як святого,\
-Найголовнішим на Землі опісля Бога:\
-На індульге́нціях казна розбагатіла,\
+Мене у світі знали як святого,<br>
+Найголовнішим на Землі опісля Бога:<br>
+На індульге́нціях казна розбагатіла,<br>
 Та Смерть мене тепер не пожаліла.
 
 · · ·
 
 **Смерть к папе**
 
-Святой Отец, мы открываем танец;\
-И вам сегодня первый шаг ступать.\
-Ведь индульгенций право, крест, тиара\
+Святой Отец, мы открываем танец;<br>
+И вам сегодня первый шаг ступать.<br>
+Ведь индульгенций право, крест, тиара<br>
 Вам не помогут танца избежать.
 
 **Папа**
 
-Понтифик независимый, надменный,\
-Во имя Бога царствуя, я правил без Него.\
-Хоть индульге́нции сейчас мои в цене...\
+Понтифик независимый, надменный,<br>
+Во имя Бога царствуя, я правил без Него.<br>
+Хоть индульге́нции сейчас мои в цене...<br>
 Ах, вот бы Смерть дала́ одну и мне!
 
 ---
@@ -159,80 +149,80 @@ But now death spares myself no more.
 
 **Todt zum Keyser:**
 
-Herr Keyser mit dem grawen Bart,\
-Euwr Reuw habt jhr zu lang gespart,\
-Drumb sperrt euch nicht, Jhr müßt darvon,\
+Herr Keyser mit dem grawen Bart,<br>
+Euwr Reuw habt jhr zu lang gespart,<br>
+Drumb sperrt euch nicht, Jhr müßt darvon,<br>
 Vnd tantz'n nach meiner Pfeiffen thon.
 
 **Der Keyser.**
 
-Ich kundte das Reich gar wol mehren\
-Mit Streitten, Fechten, Vnrecht wehren:\
-Nun hat der Todt vberwunden mich,\
+Ich kundte das Reich gar wol mehren<br>
+Mit Streitten, Fechten, Vnrecht wehren:<br>
+Nun hat der Todt vberwunden mich,<br>
 Daß ich bin keinem Keyser gleich.
 
 · · ·
 
 **La Mort à l’Empereur:**
 
-Vous avez trop longtemps, Seigneur à barbe grise,\
-Ajourné votre repentir,\
-Allons, disposez vous: il m’est plus de remise,\
+Vous avez trop longtemps, Seigneur à barbe grise,<br>
+Ajourné votre repentir,<br>
+Allons, disposez vous: il m’est plus de remise,<br>
 Et mon fifre discord vous invite à partir.
 
 **Réponse de l’Empereur:**
 
-Je pivois, en héros, agrandir mon empire,\
-Protèger et venger l’humble à qui l’on fait tort;\
-Mais au comble arrivé, tout mon pouvoir expire;\
+Je pivois, en héros, agrandir mon empire,<br>
+Protèger et venger l’humble à qui l’on fait tort;<br>
+Mais au comble arrivé, tout mon pouvoir expire;<br>
 Suis-je encore Empereur? je ne suis plus qu’un mort.
 
 · · ·
 
 **Death to the Emperor.**
 
-Imperial Sire, your beard is grey\
-And still repentance finds delay;\
-'Tis vain to strive, you must go hence\
+Imperial Sire, your beard is grey<br>
+And still repentance finds delay;<br>
+'Tis vain to strive, you must go hence<br>
 And to my doleful piping dance.
 
 **The Emperor's reply.**
 
-My empire's bound I could extend,\
-By force of arms the weak defend;\
-But death o'ercomes me in a hour,\
+My empire's bound I could extend,<br>
+By force of arms the weak defend;<br>
+But death o'ercomes me in a hour,<br>
 And leaves no trace of all my power.
 
 · · ·
 
 **Смерть до імператора**
 
-Сивобородий пане Імператор,\
-Змогли ви довго покаяння відкладати.\
-Тому не опирайтесь, час прийшов\
+Сивобородий пане Імператор,<br>
+Змогли ви довго покаяння відкладати.<br>
+Тому не опирайтесь, час прийшов<br>
 Під мою флейту танець танцювати.
 
 **Імператор**
 
-Імперію розширивши й зміцнивши,\
-Несправедливість попередив я війною.\
-Та перемогу Смерть здобула наді мною,\
+Імперію розширивши й зміцнивши,<br>
+Несправедливість попередив я війною.<br>
+Та перемогу Смерть здобула наді мною,<br>
 Так легко імператорство забравши.
 
 · · ·
 
 **Смерть к императору**
 
-Владыка седовласый, долго слишком\
-Откладывали ваше покаянье.\
-И скидки ваши кончились, пошли,\
+Владыка седовласый, долго слишком<br>
+Откладывали ваше покаянье.<br>
+И скидки ваши кончились, пошли,<br>
 Зовёт моей дуды́ звучанье.
 
 **Император**
 
-Сражался, герой, империю растил,\
-Смиренных защищал, обиженных отмщал.\
-Но расплата пришла, и сила ушла.\
+Сражался, герой, империю растил,<br>
+Смиренных защищал, обиженных отмщал.<br>
+Но расплата пришла, и сила ушла.<br>
 Император? Всего лишь мертвец.
 
 ---
@@ -243,80 +233,80 @@ And leaves no trace of all my power.
 
 **Todt zur Keyserin:**
 
-Ich tantz euch vor Fraw Keyserin,\
-Springen hernach, der Tantz ist mein:\
-Euwr Hofleut sind von Euch gewichen,\
+Ich tantz euch vor Fraw Keyserin,<br>
+Springen hernach, der Tantz ist mein:<br>
+Euwr Hofleut sind von Euch gewichen,<br>
 Der Todt hat euch hie auch erschlichen.
 
 **Die Keyserin.**
 
-Viel Wollüst hat mein stoltzer Leib,\
-Ich lebt alß eines Keysers Weib:\
-Nun muß ich an diesen Tantz kommen,\
+Viel Wollüst hat mein stoltzer Leib,<br>
+Ich lebt alß eines Keysers Weib:<br>
+Nun muß ich an diesen Tantz kommen,<br>
 Mir ist all Muth vnd Frewd genommen.
 
 · · ·
 
 **La Mort à l’Impératrice:**
 
-Vos courtisans ont fui; nul d’entr’eux, ce me semble,\
-Ne s’approche de vous pour vous offrir la main:\
-Acceptez done la mienne, et puis, dansons ensemble;\
+Vos courtisans ont fui; nul d’entr’eux, ce me semble,<br>
+Ne s’approche de vous pour vous offrir la main:<br>
+Acceptez done la mienne, et puis, dansons ensemble;<br>
 Mon bal a commencé, vous le mettrez en train.
 
 **Réponse de l’Impératrice:**
 
-J’ai passé tous mes jours au sein de la mollesse,\
-Femme d’un Empereur j’ai vécu pour jouir;\
-Puis la mort à son bal m’invite, elle me presse…\
+J’ai passé tous mes jours au sein de la mollesse,<br>
+Femme d’un Empereur j’ai vécu pour jouir;<br>
+Puis la mort à son bal m’invite, elle me presse…<br>
 Je sens, à son aspect tout mon coeur défaillir.
 
 · · ·
 
 **Death to the Empress.**
 
-Empress, for you I lead the way,\
-The dance is mine, come quick, I pray;\
-Your ladies leave you all alone\
+Empress, for you I lead the way,<br>
+The dance is mine, come quick, I pray;<br>
+Your ladies leave you all alone<br>
 And death now claims you as his own.
 
 **The Empress' reply.**
 
-I've led a most luxurious life,\
-Because I was an Emperor's wife;\
-But now I'm forced to such a dance\
+I've led a most luxurious life,<br>
+Because I was an Emperor's wife;<br>
+But now I'm forced to such a dance<br>
 All joy and gladness sink at once.
 
 · · ·
 
 **Смерть до імператриці**
 
-Імператрице, я танцюю перед вами,\
-Наступний танець танцювати вам:\
-Придворні вас залишили й забра́лись,\
+Імператрице, я танцюю перед вами,<br>
+Наступний танець танцювати вам:<br>
+Придворні вас залишили й забра́лись,<br>
 Натомість Смерть сюди прокра́лась.
 
 **Імператриця**
 
-Жила життям багатим насолоди,\
-Самому імператору дружиною була.\
-Тепер до цього танцю мушу вийти,\
+Жила життям багатим насолоди,<br>
+Самому імператору дружиною була.<br>
+Тепер до цього танцю мушу вийти,<br>
 Що всю сміливість й радість відбира́.
 
 · · ·
 
 **Смерть к императрице**
 
-Вся ваша свита разбежалась; мне кажется, никто\
-Из них не подойдёт и не предложит руку.\
-Возьмите же мою, и потанцуем вместе.\
+Вся ваша свита разбежалась; мне кажется, никто<br>
+Из них не подойдёт и не предложит руку.<br>
+Возьмите же мою, и потанцуем вместе.<br>
 Ведь бал мой начат, вам его вести́.
 
 **Императрица**
 
-Все дни свои я в праздности и не́ге провела,\
-Императора жена, жила, чтоб наслаждаться.\
-Вдруг Смерть меня на бал торопит приглашеньем...\
+Все дни свои я в праздности и не́ге провела,<br>
+Императора жена, жила, чтоб наслаждаться.<br>
+Вдруг Смерть меня на бал торопит приглашеньем...<br>
 И сердце замирает от её появленья.
 
 ---
