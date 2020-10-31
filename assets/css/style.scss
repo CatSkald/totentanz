@@ -37,9 +37,12 @@ th {
   padding-bottom: 1.2em;
 }
 th.separator {
-  column-span: 2;
-  content: "· · ·";
+  column-span: all;
   text-align: center;
+
+  &:after {
+    content: "· · ·";
+  }
 }
 section #title p {
   color: #d4d4d4;
