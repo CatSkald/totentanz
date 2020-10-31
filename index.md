@@ -72,6 +72,7 @@ English, C. F. Beck, 1852
 - [Cook](#cook)
 - [Peasant](#peasant)
 - [Painter](#painter)
+- [Policy & Terms](#policy--terms)
 
 ***
 
@@ -546,6 +547,40 @@ All joy and gladness sink at once.
 ## Painter
 
 ![Painter]({{ site.url }}/totentanz/assets/images/painter.png)
+
+***
+
+## More info
+
+Links to external websites containing more information about the Dance of Death:
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Danse_Macabre)
+- [Lübeck's Dance of Death](http://www.dodedans.com/Eindex.htm)
+
+***
+
+## Privacy & Terms
+
+### Cookies 🍪
+
+We do not use any cookies.
+
+### Disclaimer
+
+- This site and its content are offered "AS IS" without warranty of any kind, either express or implied.
+- This site shall not be responsible or liable for the accuracy, completeness, correctness, usefulness or availability of any information.
+- The content contained on this website is provided for general information purposes only and do not constitute any professional advice on any subject matter.
+- This website shall not be responsible for any loss which may arise from reliance on information contained on this site.
+
+### External links
+
+Our website contains links to other websites and external online resources owned and operated by third parties. We have no control over, and therefore cannot assume responsibility for, the content, general practices or services of any of these third party sites and resources. The presence of such links does not imply an endorsement of the linked sites, their operators, or their contents.
+
+We strongly advise you to read the terms and conditions and privacy policy of any site that you visit as a result of following such a link.
+
+### License
+
+The materials on this website are in the public domain.
 
 ***
 
