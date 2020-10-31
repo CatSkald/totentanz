@@ -41,9 +41,13 @@ nav {
   }
 }
 #title {
-  h1,
+  h1 {
+    font-weight: 200;
+    font-size: 2em;
+  }
   p {
     font-weight: 200;
+    font-size: 0.9em;
   }
 }
 a {
