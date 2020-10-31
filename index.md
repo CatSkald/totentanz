@@ -88,7 +88,7 @@ Ohn Gott der höchst führt ich mein Stand:<br>
 Der Ablaß thät mir gar wol lohnen,<br>
 Nun wil der Todt mein nicht verschonen.
 </td></tr>
-<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header"><th class="separator"></th></tr>
 <tr class="header">
 <th>La Mort au Pape:</th>
 <th>Réponse du Pape:</th>
@@ -103,7 +103,7 @@ Règnant au nom de Dieu, je gouvernois sans lui;<br>
 Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
 </td></tr>
-<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header"><th class="separator"></th></tr>
 <tr class="header">
 <th>La Mort au Pape:</th>
 <th>Réponse du Pape:</th>
@@ -118,7 +118,7 @@ Règnant au nom de Dieu, je gouvernois sans lui;<br>
 Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
 </td></tr>
-<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header"><th class="separator"></th></tr>
 <tr class="header">
 <th>Death to the Pope.</th>
 <th>The Pope's reply.</th>
@@ -133,7 +133,7 @@ Next God mine was the highest place;<br>
 Indulgence brought me wealth in store,<br>
 But now death spares myself no more.
 </td></tr>
-<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header"><th class="separator"></th></tr>
 <tr class="header">
 <th>Смерть до папи</th>
 <th>Папа</th>
@@ -148,7 +148,7 @@ But now death spares myself no more.
 На індульге́нціях казна розбагатіла,<br>
 Та Смерть мене тепер не пожаліла.
 </td></tr>
-<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header"><th class="separator"></th></tr>
 <tr class="header">
 <th>Смерть к папе</th>
 <th>Папа</th>
