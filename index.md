@@ -73,10 +73,11 @@ CatSkald, 2020, перевод с французской версии Chovin
 
 ![Pope]({{ site.url }}/totentanz/assets/images/pope.png)
 
-<table><thead><tr class="header">
+<table>
+<tr class="header">
 <th>Todt zum Bapst.</th>
 <th>Antwort.</th>
-</tr></thead><tbody><tr><td markdown="span">
+</tr><tr><td markdown="span">
 Komm heiliger Vatter werther Mann,<br>
 Ein Vortantz müßt jhr mit mir han:<br>
 Der Ablaß euch nicht hilfft darvon,<br>
@@ -86,14 +87,12 @@ Heilig war ich auff Erd genandt,<br>
 Ohn Gott der höchst führt ich mein Stand:<br>
 Der Ablaß thät mir gar wol lohnen,<br>
 Nun wil der Todt mein nicht verschonen.
-</td></tr></tbody></table>
-
-· · ·
-
-<table><thead><tr class="header">
+</td></tr>
+<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header">
 <th>La Mort au Pape:</th>
 <th>Réponse du Pape:</th>
-</tr></thead><tbody><tr><td markdown="span">
+</tr><tr><td markdown="span">
 Saint-Pere, c’est à vous à commencer la danse;<br>
 Je veux que le premier on vous voie avancer;<br>
 Ni tiare, ni croix, ni le droit d’indulgence<br>
@@ -103,14 +102,27 @@ Pontife indépendant et fier de ma puissance,<br>
 Règnant au nom de Dieu, je gouvernois sans lui;<br>
 Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
-</td></tr></tbody></table>
-
-· · ·
-
-<table><thead><tr class="header">
+</td></tr>
+<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header">
+<th>La Mort au Pape:</th>
+<th>Réponse du Pape:</th>
+</tr><tr><td markdown="span">
+Saint-Pere, c’est à vous à commencer la danse;<br>
+Je veux que le premier on vous voie avancer;<br>
+Ni tiare, ni croix, ni le droit d’indulgence<br>
+De ce pas décisif ne peuvent dispenser.
+</td><td markdown="span">
+Pontife indépendant et fier de ma puissance,<br>
+Règnant au nom de Dieu, je gouvernois sans lui;<br>
+Je vendois à haut prix des lettres de dispense…<br>
+Ah! que ne peut la mort m’en vendre une aujourd’hui!
+</td></tr>
+<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header">
 <th>Death to the Pope.</th>
 <th>The Pope's reply.</th>
-</tr></thead><tbody><tr><td markdown="span">
+</tr><tr><td markdown="span">
 Come, holy father, you shall be<br>
 The first to dance along with me;<br>
 Indulgence helps you not, lay down<br>
@@ -120,14 +132,12 @@ On earth my name was Holiness,<br>
 Next God mine was the highest place;<br>
 Indulgence brought me wealth in store,<br>
 But now death spares myself no more.
-</td></tr></tbody></table>
-
-· · ·
-
-<table><thead><tr class="header">
+</td></tr>
+<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header">
 <th>Смерть до папи</th>
 <th>Папа</th>
-</tr></thead><tbody><tr><td markdown="span">
+</tr><tr><td markdown="span">
 Святотче, першим попрошу́<br>
 До танцю скласти мені па́ру:<br>
 Ні індульге́нція, ані трійна́ тіара,<br>
@@ -137,14 +147,12 @@ But now death spares myself no more.
 Найголовнішим на Землі опісля Бога:<br>
 На індульге́нціях казна розбагатіла,<br>
 Та Смерть мене тепер не пожаліла.
-</td></tr></tbody></table>
-
-· · ·
-
-<table><thead><tr class="header">
+</td></tr>
+<tr class="header"><th colspan="2">· · ·</th></tr>
+<tr class="header">
 <th>Смерть к папе</th>
 <th>Папа</th>
-</tr></thead><tbody><tr><td markdown="span">
+</tr><tr><td markdown="span">
 Святой Отец, мы открываем танец;<br>
 И вам сегодня первый шаг ступать.<br>
 Ведь индульгенций право, крест, тиара<br>
@@ -154,7 +162,8 @@ But now death spares myself no more.
 Во имя Бога царствуя, я правил без Него.<br>
 Хоть индульге́нции сейчас мои в цене...<br>
 Ах, вот бы Смерть дала́ одну и мне!
-</td></tr></tbody></table>
+</td></tr>
+</table>
 
 ---
 
