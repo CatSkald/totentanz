@@ -5,9 +5,46 @@
 #header {
   display: none;
 }
+@font-face {
+  font-family: "Alice";
+  src: url("../fonts/Alice.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   background: #141414;
   color: #d4d4d4;
+  font: 14px/1.5 "Alice", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+th,
+dt,
+li,
+p,
+.credits {
+  font-family: "Alice", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+strong,
+th,
+dt {
+  font-weight: bold;
+}
+nav {
+  li {
+    font-weight: 200;
+  }
+}
+#title {
+  h1,
+  p {
+    font-weight: 200;
+  }
 }
 a {
   color: maroon;

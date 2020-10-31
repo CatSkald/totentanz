@@ -1,30 +1,36 @@
-# The Dance of Death at Basle
+# Illustrations ⨳ Abbildungen ⨳ Іллюстрації ⨳ Иллюстрации
 
-C. F. Beck, 1852
+Jacques-Antony Chovin, 1744
 
 · · ·
 
 # Todtentanz der stadt Basel
 
-Matthäus Merian, 1621
+Deutsche, Matthäus Merian, 1621
 
 · · ·
 
 # La danse des mortes
 
-Jacques-Antony Chovin, 1825
+Français, Jacques-Antony Chovin, 1825
+
+· · ·
+
+# The Dance of Death at Basle
+
+English, C. F. Beck, 1852
 
 · · ·
 
 # Танок смерті в Базелі
 
-CatSkald, 2020, переклад з німецької версії Merian
+Українська, CatSkald, 2020, переклад з німецької версії Merian
 
 · · ·
 
 # Пляска смерти в Базеле
 
-CatSkald, 2020, перевод с французской версии Chovin
+Русский, CatSkald, 2020, перевод с французской версии Chovin
 
 ***
 
