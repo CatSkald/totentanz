@@ -1,6 +1,6 @@
-![Banner]({{ site.url }}/totentanz/assets/images/preview.png)
-
 [Dance of Death](#illustrations--abbildungen--іллюстрації--иллюстрации) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
+
+![Banner]({{ site.url }}/totentanz/assets/images/preview.png)
 
 ***
 
@@ -589,4 +589,16 @@ The materials on this website are in the public domain.
 
 ***
 
+[Dance of Death](#illustrations--abbildungen--іллюстрації--иллюстрации) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
+
 [⇪⇪⇪💀⇪⇪⇪](#title)
+
+***
+
+<table id="footer">
+<tr><td markdown="span" class="credits">
+© 2020 [CatSkald](https://github.com/CatSkald/totentanz/)
+</td><td markdown="span" class="credits right">
+Theme by [mattgraham](https://twitter.com/michigangraham)
+</td></tr>
+</table>

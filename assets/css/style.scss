@@ -2,7 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-#header {
+#header,
+#title .credits {
   display: none;
 }
 @font-face {
@@ -72,6 +73,9 @@ th {
   border: none;
   color: inherit;
 }
+td.right {
+  text-align: right;
+}
 th {
   font-weight: bold;
   font-size: 102%;
@@ -85,8 +89,16 @@ th.separator {
     content: "· · ·";
   }
 }
-section #title p {
-  color: #d4d4d4;
+section {
+  margin: 0;
+
+  #title {
+    margin: 0;
+
+    p {
+      color: #d4d4d4;
+    }
+  }
 }
 h1,
 h2,
