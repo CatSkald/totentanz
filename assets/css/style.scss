@@ -2,104 +2,102 @@
 ---
 
 @import "{{ site.theme }}";
-#header,
-#title .credits {
-  display: none;
-}
+
 @font-face {
   font-family: "Alice";
   src: url("../fonts/Alice.ttf");
   font-weight: normal;
   font-style: normal;
 }
+
 body {
   background: #141414;
   color: #d4d4d4;
   font: 14px/1.5 "Alice", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-strong,
-th,
-dt,
-li,
-p,
-.credits {
   font-family: "Alice", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
+
+#header,
+#title .credits {
+  display: none;
+}
+
 strong,
-th,
-dt {
+h3 {
   font-weight: bold;
 }
-nav {
-  li {
-    font-weight: 200;
-  }
-}
-#title {
-  h1 {
-    font-weight: 200;
-    font-size: 2em;
-  }
-  p {
-    font-weight: 200;
-    font-size: 0.9em;
-  }
-}
-a {
-  color: maroon;
-  font-weight: bolder;
-}
-a:hover {
-  color: red;
-}
-ul {
-  list-style-image: none;
-  list-style: none;
-  padding: 0;
-}
-li:before {
-  content: "💀";
-  margin: 0 1em;
-}
+
 td,
 th {
   padding: 0;
   border: none;
   color: inherit;
 }
+
 td.right {
   text-align: right;
 }
+
 th {
   font-weight: bold;
   font-size: 102%;
   padding-bottom: 1.2em;
-}
-th.separator {
-  text-align: right;
-  padding-top: 1.2em;
 
-  &:after {
-    content: "· · ·";
-  }
-}
-section {
-  margin: 0;
+  &.separator {
+    text-align: right;
+    padding-top: 1.2em;
 
-  #title {
-    margin: 0;
-
-    p {
-      color: #d4d4d4;
+    &:after {
+      content: "· · ·";
     }
   }
 }
+
+nav {
+  li {
+    font-weight: 200;
+  }
+}
+
+#title {
+  margin: 0;
+
+  h1 {
+    font-weight: 200;
+    font-size: 2em;
+  }
+
+  p {
+    color: #d4d4d4;
+    font-weight: 200;
+    font-size: 0.8em;
+  }
+}
+
+a {
+  color: red;
+  font-weight: bolder;
+
+  &:hover {
+    color: crimson;
+  }
+}
+
+ul {
+  list-style-image: none;
+  list-style: none;
+  padding: 0;
+}
+
+li:before {
+  content: "💀";
+  margin: 0 1em;
+}
+
+section {
+  margin: 0;
+}
+
 h1,
 h2,
 h3,

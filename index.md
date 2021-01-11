@@ -1,42 +1,42 @@
-[Dance of Death](#illustrations--abbildungen--іллюстрації--иллюстрации) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
+[Dance of Death](#todtentanz--der--stadt--basel) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
 
 ![Banner]({{ site.url }}/totentanz/assets/images/preview.png)
 
 ***
 
-# Illustrations ⨳ Abbildungen ⨳ Іллюстрації ⨳ Иллюстрации
-
-Jacques-Antony Chovin, 1744
-
-· · ·
-
-# Todtentanz der stadt Basel
+## Todtentanz der stadt Basel
 
 Deutsche, Matthäus Merian, 1621
 
 · · ·
 
-# La danse des mortes
+## La danse des mortes
 
 Français, Jacques-Antony Chovin, 1825
 
 · · ·
 
-# The Dance of Death at Basle
+## The Dance of Death at Basle
 
 English, C. F. Beck, 1852
 
 · · ·
 
-# Танок смерті в Базелі
+## Танок смерті в Базелі
 
 Українська, CatSkald, 2020, переклад з німецької версії Merian
 
 · · ·
 
-# Пляска смерти в Базеле
+## Пляска смерти в Базеле
 
 Русский, CatSkald, 2020, перевод с французской версии Chovin
+
+· · ·
+
+## Illustrations ⨳ Abbildungen ⨳ Ілюстрації ⨳ Иллюстрации
+
+Jacques-Antony Chovin, 1744
 
 ***
 
@@ -81,7 +81,7 @@ English, C. F. Beck, 1852
 
 ***
 
-## Pope
+### Pope
 
 ![Pope]({{ site.url }}/totentanz/assets/images/pope.png)
 
@@ -179,7 +179,7 @@ But now death spares myself no more.
 
 ***
 
-## Emperor
+### Emperor
 
 ![Emperor]({{ site.url }}/totentanz/assets/images/emperor.png)
 
@@ -262,7 +262,7 @@ And leaves no trace of all my power.
 
 ***
 
-## Empress
+### Empress
 
 ![Empress]({{ site.url }}/totentanz/assets/images/empress.png)
 
@@ -345,217 +345,217 @@ All joy and gladness sink at once.
 
 ***
 
-## King
+### King
 
 ![King]({{ site.url }}/totentanz/assets/images/king.png)
 
 ***
 
-## Queen
+### Queen
 
 ![Queen]({{ site.url }}/totentanz/assets/images/queen.png)
 
 ***
 
-## Cardinal
+### Cardinal
 
 ![Cardinal]({{ site.url }}/totentanz/assets/images/cardinal.png)
 
 ***
 
-## Bishop
+### Bishop
 
 ![Bishop]({{ site.url }}/totentanz/assets/images/bishop.png)
 
 ***
 
-## Duke
+### Duke
 
 ![Duke]({{ site.url }}/totentanz/assets/images/duke.png)
 
 ***
 
-## Duchess
+### Duchess
 
 ![Duchess]({{ site.url }}/totentanz/assets/images/duchess.png)
 
 ***
 
-## Count
+### Count
 
 ![Count]({{ site.url }}/totentanz/assets/images/count.png)
 
 ***
 
-## Abbot
+### Abbot
 
 ![Abbot]({{ site.url }}/totentanz/assets/images/abbot.png)
 
 ***
 
-## Knight
+### Knight
 
 ![Knight]({{ site.url }}/totentanz/assets/images/knight.png)
 
 ***
 
-## Lawyer
+### Lawyer
 
 ![Lawyer]({{ site.url }}/totentanz/assets/images/lawyer.png)
 
 ***
 
-## Senator
+### Senator
 
 ![Senator]({{ site.url }}/totentanz/assets/images/senator.png)
 
 ***
 
-## Canon
+### Canon
 
 ![Canon]({{ site.url }}/totentanz/assets/images/canon.png)
 
 ***
 
-## Physician
+### Physician
 
 ![Physician]({{ site.url }}/totentanz/assets/images/physician.png)
 
 ***
 
-## Nobleman
+### Nobleman
 
 ![Nobleman]({{ site.url }}/totentanz/assets/images/nobleman.png)
 
 ***
 
-## Noblewoman
+### Noblewoman
 
 ![Noblewoman]({{ site.url }}/totentanz/assets/images/noblewoman.png)
 
 ***
 
-## Merchant
+### Merchant
 
 ![Merchant]({{ site.url }}/totentanz/assets/images/merchant.png)
 
 ***
 
-## Abbess
+### Abbess
 
 ![Abbess]({{ site.url }}/totentanz/assets/images/abbess.png)
 
 ***
 
-## Cripple
+### Cripple
 
 ![Cripple]({{ site.url }}/totentanz/assets/images/cripple.png)
 
 ***
 
-## Hermit
+### Hermit
 
 ![Hermit]({{ site.url }}/totentanz/assets/images/hermit.png)
 
 ***
 
-## Young man
+### Young man
 
 ![Young man]({{ site.url }}/totentanz/assets/images/young-man.png)
 
 ***
 
-## Usurer
+### Usurer
 
 ![Usurer]({{ site.url }}/totentanz/assets/images/usurer.png)
 
 ***
 
-## Young woman
+### Young woman
 
 ![Young woman]({{ site.url }}/totentanz/assets/images/young-woman.png)
 
 ***
 
-## Musician
+### Musician
 
 ![Musician]({{ site.url }}/totentanz/assets/images/musician.png)
 
 ***
 
-## Herald
+### Herald
 
 ![Herald]({{ site.url }}/totentanz/assets/images/herald.png)
 
 ***
 
-## Mayor
+### Mayor
 
 ![Mayor]({{ site.url }}/totentanz/assets/images/mayor.png)
 
 ***
 
-## Executioner
+### Executioner
 
 ![Executioner]({{ site.url }}/totentanz/assets/images/executioner.png)
 
 ***
 
-## Fool
+### Fool
 
 ![Fool]({{ site.url }}/totentanz/assets/images/fool.png)
 
 ***
 
-## Peddler
+### Peddler
 
 ![Peddler]({{ site.url }}/totentanz/assets/images/peddler.png)
 
 ***
 
-## Blind man
+### Blind man
 
 ![Blind man]({{ site.url }}/totentanz/assets/images/blind-man.png)
 
 ***
 
-## Jew
+### Jew
 
 ![Jew]({{ site.url }}/totentanz/assets/images/jew.png)
 
 ***
 
-## Heathen
+### Heathen
 
 ![Heathen]({{ site.url }}/totentanz/assets/images/heathen.png)
 
 ***
 
-## Heathen woman
+### Heathen woman
 
 ![Heathen woman]({{ site.url }}/totentanz/assets/images/heathen-woman.png)
 
 ***
 
-## Cook
+### Cook
 
 ![Cook]({{ site.url }}/totentanz/assets/images/cook.png)
 
 ***
 
-## Peasant
+### Peasant
 
 ![Peasant]({{ site.url }}/totentanz/assets/images/peasant.png)
 
 ***
 
-## Painter
+### Painter
 
 ![Painter]({{ site.url }}/totentanz/assets/images/painter.png)
 
 ***
 
-# More Info
+## More Info
 
 Links to external websites containing more information about the Dance of Death:
 
@@ -564,32 +564,32 @@ Links to external websites containing more information about the Dance of Death:
 
 ***
 
-# Privacy & Terms
+## Privacy & Terms
 
-## Cookies 🍪
+### Cookies 🍪
 
 We do not use any cookies.
 
-## Disclaimer
+### Disclaimer
 
 - This site and its content are offered "AS IS" without warranty of any kind, either express or implied.
 - This site shall not be responsible or liable for the accuracy, completeness, correctness, usefulness or availability of any information.
 - The content contained on this website is provided for general information purposes only and do not constitute any professional advice on any subject matter.
 - This website shall not be responsible for any loss which may arise from reliance on information contained on this site.
 
-## External links
+### External links
 
 Our website contains links to other websites and external online resources owned and operated by third parties. We have no control over, and therefore cannot assume responsibility for, the content, general practices or services of any of these third party sites and resources. The presence of such links does not imply an endorsement of the linked sites, their operators, or their contents.
 
 We strongly advise you to read the terms and conditions and privacy policy of any site that you visit as a result of following such a link.
 
-## License
+### License
 
 The materials on this website are in the public domain.
 
 ***
 
-[Dance of Death](#illustrations--abbildungen--іллюстрації--иллюстрации) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
+[Dance of Death](#todtentanz--der--stadt--basel) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
 
 [⇪⇪⇪💀⇪⇪⇪](#title)
 
