@@ -86,10 +86,10 @@ Jacques-Antony Chovin, 1744
 ![Pope]({{ site.url }}/totentanz/assets/images/pope.png)
 
 <table>
-<tr>
+<tr lang="de">
 <th>Todt zum Bapst.</th>
 <th>Antwort.</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="de"><td markdown="span">
 Komm heiliger Vatter werther Mann,<br>
 Ein Vortantz müßt jhr mit mir han:<br>
 Der Ablaß euch nicht hilfft darvon,<br>
@@ -101,10 +101,10 @@ Der Ablaß thät mir gar wol lohnen,<br>
 Nun wil der Todt mein nicht verschonen.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="fr">
 <th>La Mort au Pape:</th>
 <th>Réponse du Pape:</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="fr"><td markdown="span">
 Saint-Pere, c’est à vous à commencer la danse;<br>
 Je veux que le premier on vous voie avancer;<br>
 Ni tiare, ni croix, ni le droit d’indulgence<br>
@@ -116,25 +116,10 @@ Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
-<th>La Mort au Pape:</th>
-<th>Réponse du Pape:</th>
-</tr><tr><td markdown="span">
-Saint-Pere, c’est à vous à commencer la danse;<br>
-Je veux que le premier on vous voie avancer;<br>
-Ni tiare, ni croix, ni le droit d’indulgence<br>
-De ce pas décisif ne peuvent dispenser.
-</td><td markdown="span">
-Pontife indépendant et fier de ma puissance,<br>
-Règnant au nom de Dieu, je gouvernois sans lui;<br>
-Je vendois à haut prix des lettres de dispense…<br>
-Ah! que ne peut la mort m’en vendre une aujourd’hui!
-</td></tr>
-<tr><td class="separator"></td></tr>
-<tr>
+<tr lang="en">
 <th>Death to the Pope.</th>
 <th>The Pope's reply.</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="en"><td markdown="span">
 Come, holy father, you shall be<br>
 The first to dance along with me;<br>
 Indulgence helps you not, lay down<br>
@@ -146,10 +131,10 @@ Indulgence brought me wealth in store,<br>
 But now death spares myself no more.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="uk">
 <th>Смерть до папи</th>
 <th>Папа</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="uk"><td markdown="span">
 Святотче, першим попрошу́<br>
 До танцю скласти мені па́ру:<br>
 Ні індульге́нція, ані трійна́ тіара,<br>
@@ -161,10 +146,10 @@ But now death spares myself no more.
 Та Смерть мене тепер не пожаліла.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="ru">
 <th>Смерть к папе</th>
 <th>Папа</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="ru"><td markdown="span">
 Святой Отец, мы открываем танец;<br>
 И вам сегодня первый шаг ступать.<br>
 Ведь индульгенций право, крест, тиара<br>
@@ -184,10 +169,10 @@ But now death spares myself no more.
 ![Emperor]({{ site.url }}/totentanz/assets/images/emperor.png)
 
 <table>
-<tr>
+<tr lang="de">
 <th>Todt zum Keyser:</th>
 <th>Der Keyser.</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="de"><td markdown="span">
 Herr Keyser mit dem grawen Bart,<br>
 Euwr Reuw habt jhr zu lang gespart,<br>
 Drumb sperrt euch nicht, Jhr müßt darvon,<br>
@@ -199,10 +184,10 @@ Nun hat der Todt vberwunden mich,<br>
 Daß ich bin keinem Keyser gleich.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="fr">
 <th>La Mort à l’Empereur:</th>
 <th>Réponse de l’Empereur:</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="fr"><td markdown="span">
 Vous avez trop longtemps, Seigneur à barbe grise,<br>
 Ajourné votre repentir,<br>
 Allons, disposez vous: il m’est plus de remise,<br>
@@ -214,10 +199,10 @@ Mais au comble arrivé, tout mon pouvoir expire;<br>
 Suis-je encore Empereur? je ne suis plus qu’un mort.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="en">
 <th>Death to the Emperor.</th>
 <th>The Emperor's reply.</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="en"><td markdown="span">
 Imperial Sire, your beard is grey<br>
 And still repentance finds delay;<br>
 'Tis vain to strive, you must go hence<br>
@@ -229,10 +214,10 @@ But death o'ercomes me in a hour,<br>
 And leaves no trace of all my power.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="uk">
 <th>Смерть до імператора</th>
 <th>Імператор</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="uk"><td markdown="span">
 Сивобородий пане Імператор,<br>
 Змогли ви довго покаяння відкладати.<br>
 Тому не опирайтесь, час прийшов<br>
@@ -244,10 +229,10 @@ And leaves no trace of all my power.
 Так легко імператорство забравши.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="ru">
 <th>Смерть к императору</th>
 <th>Император</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="ru"><td markdown="span">
 Владыка седовласый, долго слишком<br>
 Откладывали ваше покаянье.<br>
 И скидки ваши кончились, пошли,<br>
@@ -267,10 +252,10 @@ And leaves no trace of all my power.
 ![Empress]({{ site.url }}/totentanz/assets/images/empress.png)
 
 <table>
-<tr>
+<tr lang="de">
 <th>Todt zur Keyserin:</th>
 <th>Die Keyserin.</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="de"><td markdown="span">
 Ich tantz euch vor Fraw Keyserin,<br>
 Springen hernach, der Tantz ist mein:<br>
 Euwr Hofleut sind von Euch gewichen,<br>
@@ -282,10 +267,10 @@ Nun muß ich an diesen Tantz kommen,<br>
 Mir ist all Muth vnd Frewd genommen.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="fr">
 <th>La Mort à l’Impératrice:</th>
 <th>Réponse de l’Impératrice:</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="fr"><td markdown="span">
 Vos courtisans ont fui; nul d’entr’eux, ce me semble,<br>
 Ne s’approche de vous pour vous offrir la main:<br>
 Acceptez done la mienne, et puis, dansons ensemble;<br>
@@ -297,10 +282,10 @@ Puis la mort à son bal m’invite, elle me presse…<br>
 Je sens, à son aspect tout mon coeur défaillir.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="en">
 <th>Death to the Empress.</th>
 <th>The Empress' reply.</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="en"><td markdown="span">
 Empress, for you I lead the way,<br>
 The dance is mine, come quick, I pray;<br>
 Your ladies leave you all alone<br>
@@ -312,10 +297,10 @@ But now I'm forced to such a dance<br>
 All joy and gladness sink at once.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="uk">
 <th>Смерть до імператриці</th>
 <th>Імператриця</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="uk"><td markdown="span">
 Імператрице, я танцюю перед вами,<br>
 Наступний танець танцювати вам:<br>
 Придворні вас залишили й забра́лись,<br>
@@ -327,10 +312,10 @@ All joy and gladness sink at once.
 Що всю сміливість й радість відбира́.
 </td></tr>
 <tr><td class="separator"></td></tr>
-<tr>
+<tr lang="ru">
 <th>Смерть к императрице</th>
 <th>Императрица</th>
-</tr><tr><td markdown="span">
+</tr><tr lang="ru"><td markdown="span">
 Вся ваша свита разбежалась; мне кажется, никто<br>
 Из них не подойдёт и не предложит руку.<br>
 Возьмите же мою, и потанцуем вместе.<br>

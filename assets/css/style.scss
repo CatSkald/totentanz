@@ -35,7 +35,7 @@ section {
     p {
       color: #d4d4d4;
       font-weight: 200;
-      font-size: 1em;
+      font-size: 0.9em;
     }
   }
 }
@@ -65,6 +65,7 @@ p,
 }
 
 strong,
+th,
 h3 {
   font-weight: bold;
 }
@@ -74,8 +75,6 @@ th {
   padding: 0 0 1.2em 0;
   border: none;
   color: inherit;
-  font-weight: bold;
-  font-size: 102%;
 
   &.right {
     text-align: right;
@@ -89,6 +88,11 @@ th {
       content: "· · ·";
     }
   }
+}
+
+td {
+  font-size: 0.9em;
+  font-weight: 200;
 }
 
 a {
