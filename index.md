@@ -100,7 +100,7 @@ Ohn Gott der höchst führt ich mein Stand:<br>
 Der Ablaß thät mir gar wol lohnen,<br>
 Nun wil der Todt mein nicht verschonen.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>La Mort au Pape:</th>
 <th>Réponse du Pape:</th>
@@ -115,7 +115,7 @@ Règnant au nom de Dieu, je gouvernois sans lui;<br>
 Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>La Mort au Pape:</th>
 <th>Réponse du Pape:</th>
@@ -130,7 +130,7 @@ Règnant au nom de Dieu, je gouvernois sans lui;<br>
 Je vendois à haut prix des lettres de dispense…<br>
 Ah! que ne peut la mort m’en vendre une aujourd’hui!
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Death to the Pope.</th>
 <th>The Pope's reply.</th>
@@ -145,7 +145,7 @@ Next God mine was the highest place;<br>
 Indulgence brought me wealth in store,<br>
 But now death spares myself no more.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Смерть до папи</th>
 <th>Папа</th>
@@ -160,7 +160,7 @@ But now death spares myself no more.
 На індульге́нціях казна розбагатіла,<br>
 Та Смерть мене тепер не пожаліла.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Смерть к папе</th>
 <th>Папа</th>
@@ -198,7 +198,7 @@ Mit Streitten, Fechten, Vnrecht wehren:<br>
 Nun hat der Todt vberwunden mich,<br>
 Daß ich bin keinem Keyser gleich.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>La Mort à l’Empereur:</th>
 <th>Réponse de l’Empereur:</th>
@@ -213,7 +213,7 @@ Protèger et venger l’humble à qui l’on fait tort;<br>
 Mais au comble arrivé, tout mon pouvoir expire;<br>
 Suis-je encore Empereur? je ne suis plus qu’un mort.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Death to the Emperor.</th>
 <th>The Emperor's reply.</th>
@@ -228,7 +228,7 @@ By force of arms the weak defend;<br>
 But death o'ercomes me in a hour,<br>
 And leaves no trace of all my power.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Смерть до імператора</th>
 <th>Імператор</th>
@@ -243,7 +243,7 @@ And leaves no trace of all my power.
 Та перемогу Смерть здобула наді мною,<br>
 Так легко імператорство забравши.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Смерть к императору</th>
 <th>Император</th>
@@ -281,7 +281,7 @@ Ich lebt alß eines Keysers Weib:<br>
 Nun muß ich an diesen Tantz kommen,<br>
 Mir ist all Muth vnd Frewd genommen.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>La Mort à l’Impératrice:</th>
 <th>Réponse de l’Impératrice:</th>
@@ -296,7 +296,7 @@ Femme d’un Empereur j’ai vécu pour jouir;<br>
 Puis la mort à son bal m’invite, elle me presse…<br>
 Je sens, à son aspect tout mon coeur défaillir.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Death to the Empress.</th>
 <th>The Empress' reply.</th>
@@ -311,7 +311,7 @@ Because I was an Emperor's wife;<br>
 But now I'm forced to such a dance<br>
 All joy and gladness sink at once.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Смерть до імператриці</th>
 <th>Імператриця</th>
@@ -326,7 +326,7 @@ All joy and gladness sink at once.
 Тепер до цього танцю мушу вийти,<br>
 Що всю сміливість й радість відбира́.
 </td></tr>
-<tr><th class="separator"></th></tr>
+<tr><td class="separator"></td></tr>
 <tr>
 <th>Смерть к императрице</th>
 <th>Императрица</th>
