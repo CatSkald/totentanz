@@ -1,4 +1,4 @@
-[Dance of Death](#todtentanz--der--stadt--basel) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
+[Dance of Death](#todtentanz-der-stadt-basel) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
 
 ![Banner]({{ site.url }}/totentanz/assets/images/preview.png)
 
@@ -589,7 +589,7 @@ The materials on this website are in the public domain.
 
 ***
 
-[Dance of Death](#todtentanz--der--stadt--basel) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
+[Dance of Death](#todtentanz-der-stadt-basel) ⨳ [More Info](#more-info) ⨳ [Privacy & Terms](#privacy--terms)
 
 [⇪⇪⇪💀⇪⇪⇪](#title)
 
